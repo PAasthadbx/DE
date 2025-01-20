@@ -1,0 +1,5 @@
+myenv
+*.conf
+logs
+.idea
+__pycache__

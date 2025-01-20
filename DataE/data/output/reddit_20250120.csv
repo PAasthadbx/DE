@@ -1,0 +1,20 @@
+id,title,score,num_comments,author,created_utc,url,over_18,edited,spoiler,stickied
+1i5ijat,This chapter from the book Homo Deus,76,19,ephemeral404,2025-01-20 04:54:39,https://i.redd.it/1dtakl17y2ee1.jpeg,False,False,False,False
+1i50mw6,Pinterest Data Tech Stack,61,8,mjfnd,2025-01-19 15:14:36,https://www.junaideffendi.com/p/pinterest-data-tech-stack?r=cqjft&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false,False,False,False,False
+1i52gfe,"Data Engineers, What Business and Technical Challenges Have You Faced?
+
+",34,23,Murky-Principle6255,2025-01-19 16:34:10,https://www.reddit.com/r/dataengineering/comments/1i52gfe/data_engineers_what_business_and_technical/,False,False,False,False
+1i54dy3,Getting Foot in the Door as a Data Engineer,20,15,JohnBaptistePhilouza,2025-01-19 17:55:09,https://www.reddit.com/r/dataengineering/comments/1i54dy3/getting_foot_in_the_door_as_a_data_engineer/,False,False,False,False
+1i5gebc,Low latency < 500 ms query engine,18,26,Accurate-Peak4856,2025-01-20 02:53:26,https://www.reddit.com/r/dataengineering/comments/1i5gebc/low_latency_500_ms_query_engine/,False,False,False,False
+1i4xbdk,How to handle open ended design questions for Data roles and way forward?,15,2,jaina15,2025-01-19 12:23:56,https://www.reddit.com/r/dataengineering/comments/1i4xbdk/how_to_handle_open_ended_design_questions_for/,False,False,False,False
+1i4yvgd,Azure Data Factory Data Flow vs SQL script in Synapse ,13,5,Ancient-Low85,2025-01-19 13:51:41,https://www.reddit.com/r/dataengineering/comments/1i4yvgd/azure_data_factory_data_flow_vs_sql_script_in/,False,False,False,False
+1i56pk8,Any advice for new Data Engineer?,14,16,neophyte357,2025-01-19 19:29:43,https://www.reddit.com/r/dataengineering/comments/1i56pk8/any_advice_for_new_data_engineer/,False,False,False,False
+1i4vij8,"We added parquet support (shoutout to the great hyparquet package) to our data management/app building tool, interested in feedback on workflow and anything else. Here working on the flights-1m dataset.",9,3,fudgem,2025-01-19 10:19:46,https://v.redd.it/km942he6fxde1,False,False,False,False
+1i50j2w,Data/System Design Resources,10,3,Smart-Ad9387,2025-01-19 15:09:51,https://www.reddit.com/r/dataengineering/comments/1i50j2w/datasystem_design_resources/,False,False,False,False
+1i5jng3,"AI agent to chat with database and generate sql, charts, BI",7,4,opensourcecolumbus,2025-01-20 06:02:42,https://opensourcedisc.substack.com/p/opensourcediscovery-96-wrenai,False,False,False,False
+1i54xeq,How to design Python Airflow DAG to run infinite loop programs then start next once it is running?,2,7,scuffed12s,2025-01-19 18:16:40,https://www.reddit.com/r/dataengineering/comments/1i54xeq/how_to_design_python_airflow_dag_to_run_infinite/,False,False,False,False
+1i4x07k,Need Help Finding resources for transactional data modeling,3,1,shreekar-h,2025-01-19 12:03:22,https://www.reddit.com/r/dataengineering/comments/1i4x07k/need_help_finding_resources_for_transactional/,False,False,False,False
+1i5iqhi,Hands on data engineering course ,2,6,KBHAL,2025-01-20 05:06:07,https://www.reddit.com/r/dataengineering/comments/1i5iqhi/hands_on_data_engineering_course/,False,False,False,False
+1i5kv4o,DP-203 Retired. What now?,6,7,TybulOnAzure,2025-01-20 07:26:39,https://www.reddit.com/r/dataengineering/comments/1i5kv4o/dp203_retired_what_now/,False,False,False,False
+1i5fgc8,Hey I am looking for someone who can tutor me in Azure DE and Fabric,0,1,Single-Programmer437,2025-01-20 02:03:08,https://www.reddit.com/r/dataengineering/comments/1i5fgc8/hey_i_am_looking_for_someone_who_can_tutor_me_in/,False,False,False,False
+1i5307p,What's the Data Architecture being used at your Company at present.,0,7,Great-Ranger-6895,2025-01-19 16:57:31,https://www.reddit.com/r/dataengineering/comments/1i5307p/whats_the_data_architecture_being_used_at_your/,False,False,False,False
